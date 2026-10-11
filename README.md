@@ -1,7 +1,9 @@
 # Playbook
 
-Playbook turns a goal into a step-by-step plan and finds real opportunities for
-the step you're on.
+Long-term vision: Playbook spun out of my Obsidian vault. I created a memory system 
+that actively maintains information about my life (especially personal leverage). 
+Playbook's goal is to build this system for anyone over time, and help 
+people, with their unique upsides, _accomplish any goal._
 
 You give it a resume and a goal. It researches the goal on the web, builds a
 plan backwards from your deadline, and searches for programs, people, and
@@ -9,7 +11,8 @@ communities that help with the current step. When you finish something you log
 it, and it decides whether you're ready for the next step.
 
 Live at [playbook-e8xd.onrender.com](https://playbook-e8xd.onrender.com/welcome).
-The [demo](https://playbook-e8xd.onrender.com/demo) needs no account.
+The [demo](https://playbook-e8xd.onrender.com/demo) needs no account. 
+(Note: takes a minute to load on initial startup)
 
 ## How it works
 
